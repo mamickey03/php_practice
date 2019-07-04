@@ -29,4 +29,5 @@ function b($arr){
 $array = array(1,3,5,7,9);
 echo b($array);
 
+ echo "更新";
  
